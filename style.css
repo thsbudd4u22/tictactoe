@@ -1,0 +1,27 @@
+body {           
+    margin: 0;
+}
+
+h1 {
+    color: red;
+    margin-right: 25%;
+    text-align: center;
+}
+#container {
+    margin: 0 auto;
+}
+
+table{
+    background-color: yellow;
+    margin: 0 auto;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 50px;
+
+}
